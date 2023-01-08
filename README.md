@@ -4,8 +4,9 @@
 
 I am Anton Ksenidi. I'm DS student, currently working in Aero-Space Industry and interesting in Data Science and Machine learning career.
 
-My LinkedIn profile:
-https://www.linkedin.com/in/anton-ksenidi-86903865/
+
+[![0fc7e74e-83d2-11e6-8c6a-277fc9d6e067](https://user-images.githubusercontent.com/122123102/211211545-8a57e188-ef9d-494d-8d36-6a8053148a63.png)][1]
+
 
 
 
@@ -24,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[1]: https://www.linkedin.com/in/anton-ksenidi-86903865/
