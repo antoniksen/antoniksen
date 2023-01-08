@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+:man: About Me :
+
+I am Anton Ksenidi. I'm DS student, currently working in AeroSpace Industry and interesting in Data Science and Machine learning career.
+
+
 <!--
 **antoniksen/antoniksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
