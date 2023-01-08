@@ -2,7 +2,10 @@
 
 :man: About Me :
 
-I am Anton Ksenidi. I'm DS student, currently working in AeroSpace Industry and interesting in Data Science and Machine learning career.
+I am Anton Ksenidi. I'm DS student, currently working in Aero-Space Industry and interesting in Data Science and Machine learning career.
+
+My LinkedIn profile:
+https://www.linkedin.com/in/anton-ksenidi-86903865/
 
 
 <!--
