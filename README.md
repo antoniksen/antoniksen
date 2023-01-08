@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:man: About Me :
+:man_beard: About Me :
 
 I am Anton Ksenidi. I'm DS student, currently working in Aerospace Industry and interesting in Data Science and Machine learning career.
 
